@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/socialApp/static/css/main.f192ea63.css",
-    "main.js": "/socialApp/static/js/main.88d11e5e.js",
+    "main.js": "/socialApp/static/js/main.cd08861a.js",
     "index.html": "/socialApp/index.html",
     "main.f192ea63.css.map": "/socialApp/static/css/main.f192ea63.css.map",
-    "main.88d11e5e.js.map": "/socialApp/static/js/main.88d11e5e.js.map"
+    "main.cd08861a.js.map": "/socialApp/static/js/main.cd08861a.js.map"
   },
   "entrypoints": [
     "static/css/main.f192ea63.css",
-    "static/js/main.88d11e5e.js"
+    "static/js/main.cd08861a.js"
   ]
 }
