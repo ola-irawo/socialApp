@@ -1,1 +1,1 @@
-A social media website buitl with react and firebase
+A social media website built with react and firebase
